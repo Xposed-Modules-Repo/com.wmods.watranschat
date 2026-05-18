@@ -47,3 +47,28 @@
 ### 无需 Root 版本
 
 如果您的设备没有 Root 权限，也可以使用无需 Root 的版本，请访问官网https://zla5.github.io
+
+
+## 法律声明 / Disclaimer
+
+- 本项目仅供研究、学习与教育用途使用。
+- 本项目按“现状（AS IS）”提供，开发者不对其稳定性、安全性或适用性作任何明示或暗示的保证。
+- 使用本项目所产生的任何风险、数据丢失、账号问题或其他后果，均由用户自行承担。
+- 本项目与 WhatsApp 或 Meta Platforms, Inc. 没有任何关联、认可、授权或合作关系。
+- “WhatsApp” 及相关名称、商标、Logo 均归其各自所有者所有。
+- 本项目不包含、修改或分发任何官方 WhatsApp 应用程序文件。
+- 若相关权利方认为本项目存在侵权内容，请通过 DMCA 或相关法律途径联系处理，开发者将在收到有效通知后及时配合处理。
+
+---
+
+## DMCA
+
+If you are a copyright owner and believe that this repository contains content that infringes your rights, please contact us with relevant proof or legal documents. We will review and handle the request as soon as possible.
+
+---
+
+## License
+
+This project is provided for personal research and educational purposes only.
+
+Use at your own risk.
