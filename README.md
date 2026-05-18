@@ -3,10 +3,10 @@
 在 WhatsApp 中深度集成实时自动翻译功能，输入框可直接使用中文发送消息，对方将自动收到对应的本地语言内容。聊天记录中的任何语言消息也会实时翻译为中文，让跨语言沟通更加高效顺畅。
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zla5/com.wmods.watranschat/main/image/1.jpg" width="200" />
-  <img src="https://raw.githubusercontent.com/zla5/com.wmods.watranschat/main/image/2.jpg" width="200" />
-  <img src="https://raw.githubusercontent.com/zla5/com.wmods.watranschat/main/image/3.jpg" width="200" />
-  <img src="https://raw.githubusercontent.com/zla5/com.wmods.watranschat/main/image/4.jpg" width="200" />
+  <img src="https://github.com/Xposed-Modules-Repo/com.wmods.watranschat/main/image/1.jpg" width="200" />
+  <img src="https://github.com/Xposed-Modules-Repo/com.wmods.watranschat/main/image/2.jpg" width="200" />
+  <img src="https://github.com/Xposed-Modules-Repo/com.wmods.watranschat/main/image/3.jpg" width="200" />
+  <img src="https://github.com/Xposed-Modules-Repo/com.wmods.watranschat/main/image/4.jpg" width="200" />
 </p>
 
 ## 功能特点
