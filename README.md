@@ -46,7 +46,7 @@
 
 ### 免 Root 版本
 
-如果您的设备没有 Root 权限，也可以使用免 Root 的版本，请访问官网https://zla5.github.io
+如果您的设备没有 Root 权限，也可以使用免 Root 的版本，谷歌应用商店直接搜索“WATransChat”下载安装。
 
 
 ## 法律声明 / Disclaimer
