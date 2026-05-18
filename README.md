@@ -32,9 +32,13 @@
 ### Root / LSPosed 版本
 
 1. 请确保您的设备已获得 Root 权限  
-2. 在设备中安装 LSPosed 框架  
-3. 安装并启用 WATransChat 模块  
-4. 重启 WhatsApp 后即可使用  
+2. 在你的设备上安装 LSPosed（Zygisk 或 Riru 版本）。
+3. 下载并安装 WATransChat APK
+4. 打开 LSPosed Manager 应用
+5. 启用 WATransChat 模块。
+6. 确保 WhatsApp 被选中
+7. 强制停止 WhatsApp
+8. 打开 WhatsApp，确认模块是否激活。
 
 > 推荐使用最新版本的 LSPosed，以获得更好的兼容性与稳定性。
 
